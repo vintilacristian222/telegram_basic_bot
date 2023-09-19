@@ -1,0 +1,10 @@
+botToken = "<YOUR TOKEN>"
+excelLink = "YOUR EXCEL LINK" + "\n"
+GoogleDriveFolder = "YOUR GOOGLE DRIVE FOLDER LINK" + "\n"
+chatId = " <YOUR CHAT ID>"
+messageText1 = f"<YOUR MESSAGE> {excelLink}{GoogleDriveFolder}"
+messageText2 = f"<YOUR MESSAGE> {excelLink}{GoogleDriveFolder}"
+messageText3 = f"<YOUR MESSAGE> {excelLink}{GoogleDriveFolder}"
+day1 = 22
+day2 = 1
+day3 = 15
